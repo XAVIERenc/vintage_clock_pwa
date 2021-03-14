@@ -21,7 +21,7 @@ Clock.prototype.init = function() {
    /* Properties */
    this.title = "+ Vintage Time +" ;
    this.creator_link = "https://www.linkedin.com/in/jeffrey-madden" ;
-   this.creator_image = "vintage_clock_pwa/images/logo_jeff_02.png" ;
+   this.creator_image = "vintage_clock_pwa/images/logo_jeff.png" ;
    this.timer = undefined ;
    this.speed = 1000 ; /* Interval Speed */
    this.transition_speed = 1 ; /* Seconds */
