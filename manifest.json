@@ -1,6 +1,6 @@
 {
    "short_name": "Vintage Time",
-   "name": "Vintage Clock PWA 1.0",
+   "name": "Vintage Time 1.0",
    "icons": [
          {
          "src": "vintage_clock_pwa/images/app_icon_vector_02.svg",
@@ -12,7 +12,7 @@
          "type": "image/png"
          },
          {
-         "src": "vintage_clock_pwa/images/app_icon_splash_512_01.png",
+         "src": "vintage_clock_pwa/images/app_icon_large_01.png",
          "sizes": "512x512",
          "type": "image/png"
          },
