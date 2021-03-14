@@ -132,7 +132,7 @@ body {
    z-index:1;
 }
 
-#clock .head.title { bottom:-3.5%; margin-bottom:-3.5%; }
+#clock .head.title { bottom:-3.7%; margin-bottom:-3.5%; }
 #clock .head.creator { top:-3.5%; margin-top:-3.5%; }
 @media only screen and (orientation: portrait) { #clock .head.title { font-size:3.2vw; } #clock .head.creator { font-size:2.5vw; } }
 @media only screen and (orientation: landscape) { #clock .head.title { font-size:3vh; } #clock .head.creator { font-size:2.5vh; } }
