@@ -7,16 +7,6 @@
          "sizes": "48x48"
          },
          {
-         "src": "vintage_clock_pwa/images/app_icon_small_01.png",
-         "sizes": "192x192",
-         "type": "image/png"
-         },
-         {
-         "src": "vintage_clock_pwa/images/app_icon_large_01.png",
-         "sizes": "512x512",
-         "type": "image/png"
-         },
-         {
          "src": "vintage_clock_pwa/images/app_icon_splash_1024_01.png",
          "sizes": "1024x1024",
          "type": "image/png"
