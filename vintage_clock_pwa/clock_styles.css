@@ -15,7 +15,7 @@ body {
    border:0px;
    padding:0px;
    background-color:#252525;
-   background-image:url('images/bg_04.png');
+   background-image:url('images/bg.png');
    background-position:center center;
    background-repeat:repeat;
    flex-direction:column;
@@ -39,7 +39,7 @@ body {
    border:0px;
    padding:0px;
    background-color:transparent;
-   background-image:url('images/clock_06.png');
+   background-image:url('images/clock.png');
    background-size:100%;
    background-repeat:no-repeat;
    flex-direction:column;
@@ -84,8 +84,8 @@ body {
    -moz-transform-origin:center center;
 }
 
-#clock .hand.short { background-image:url('images/short_hand_03.png'); z-index:1; }
-#clock .hand.long { background-image:url('images/long_hand_03.png'); z-index:3; margin-top:-100%; }
+#clock .hand.short { background-image:url('images/short_hand.png'); z-index:1; }
+#clock .hand.long { background-image:url('images/long_hand.png'); z-index:3; margin-top:-100%; }
 
 #clock .shadow {
    display:flex;
@@ -109,8 +109,8 @@ body {
    -moz-transition:transform 1s linear;
 }
 
-#clock .shadow.short { background-image:url('images/short_hand_03.png'); z-index:0; }
-#clock .shadow.long { background-image:url('images/long_hand_03.png'); z-index:2; }
+#clock .shadow.short { background-image:url('images/short_hand.png'); z-index:0; }
+#clock .shadow.long { background-image:url('images/long_hand.png'); z-index:2; }
 
 /* Title & Creator Section */
 
