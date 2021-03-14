@@ -7,11 +7,6 @@
          "sizes": "48x48"
          },
          {
-         "src": "images/app_icon_splash_512_01.png",
-         "sizes": "512x512 128x128",
-         "type": "image/png"
-         },
-         {
          "src": "images/app_icon_splash_1024_01.png",
          "sizes": "1024x1024",
          "type": "image/png"
