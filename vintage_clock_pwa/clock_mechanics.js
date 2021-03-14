@@ -1,4 +1,13 @@
-/* All Javascript written by Jeffrey B. Madden 2021. */
+/*
+--- Vintage Clock PWA 1.0 ---
+
+--- Disclaimer ---
+Vintage Clock PWA 1.0 written and created by Jeffrey B. Madden 03-14-2021.
+All rights reserved. Any use of Vintage Clock App 1.0 can only be granted with permission of the owner Jeffrey B. Madden.
+
+--- About Vintage Clock PWA 1.0 ---
+This week I created a challenge for myself: to build a vintage-feel clock, as a progressive web app, that would be mobile friendly.
+*/
 
 (function() {
 var Clock = function( element ) {
