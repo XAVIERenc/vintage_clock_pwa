@@ -4,16 +4,16 @@
    "icons": [
          {
          "src": "images/app_icon_vector_02.svg",
-         "sizes": "48x48"
+         "sizes": "48x48 128x128"
          },
          {
          "src": "images/app_icon_splash_512_01.png",
-         "sizes": "512x512",
+         "sizes": "128x128 512x512",
          "type": "image/png"
          },
          {
          "src": "images/app_icon_splash_1024_01.png",
-         "sizes": "1024x1024",
+         "sizes": "512x512 1024x1024",
          "type": "image/png"
          }
       ],
