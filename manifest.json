@@ -3,13 +3,8 @@
    "name": "Vintage Time 1.0",
    "icons": [
          {
-         "src": "images/app_icon_vector_02.svg",
-         "sizes": "48x48"
-         },
-         {
-         "src": "images/app_icon_small_04.png",
-         "sizes": "192x192",
-         "type": "image/png"
+         "src": "images/app_icon_vector_03.svg",
+         "sizes": "192x192"
          }
       ],
    "start_url": "index.html",
