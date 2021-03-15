@@ -4,8 +4,7 @@
    "icons": [
          {
          "src": "images/app_icon_vector_02.svg",
-         "sizes": "48x48",
-         "type": "image/svg"
+         "sizes": "48x48"
          },
          {
          "src": "images/app_icon_small_04.png",
