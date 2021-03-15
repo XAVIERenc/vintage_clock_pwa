@@ -4,7 +4,8 @@
    "icons": [
          {
          "src": "images/app_icon_vector_03.svg",
-         "sizes": "192x192"
+         "sizes": "192x192",
+         "purpose": "any maskable"
          }
       ],
    "start_url": "index.html",
